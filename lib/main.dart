@@ -9,7 +9,7 @@ import 'package:sqflite/sqflite.dart';
 import 'package:uuid/uuid.dart';
 import 'package:web_socket_channel/io.dart';
 import 'package:web_socket_channel/web_socket_channel.dart';
-import 'hortocam/gps_tracker_app.dart';
+import 'telemetria/gps_tracker_app.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
